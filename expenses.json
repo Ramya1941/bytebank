@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1001",
+        "date": "04/07/2006",
+        "category": "Travel",
+        "amount": "8000",
+        "description": ""
+    },
+    {
+        "id": "1003",
+        "date": "30/10/2026",
+        "category": "Entertainment",
+        "amount": "500",
+        "description": ""
+    }
+]
